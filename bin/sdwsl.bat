@@ -1,1 +1,1 @@
-wslconfig /t ubuntu-18.04
+wslconfig /t ubuntu-20.04
