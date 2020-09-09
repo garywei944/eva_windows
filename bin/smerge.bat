@@ -1,1 +1,1 @@
-@"C:\Program Files\Sublime Merge\sublime_merge.exe" %1
+@start "" "C:\Program Files\Sublime Merge\sublime_merge.exe" %1
