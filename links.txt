@@ -1,8 +1,6 @@
 https://mail.google.com/mail/u/?authuser=garywei944@gmail.com
-https://apps.umass.edu
+https://mail.google.com/mail/u/?authuser=guanghaowei@umass.edu
 https://moodle.umass.edu
 https://www.gradescope.com
 https://www.piazza.com
-https://uma.umassonline.net
 https://github.com/
-https://webwork.math.umass.edu/webwork2/F20_MATH_545_2/
