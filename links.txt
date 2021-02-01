@@ -4,3 +4,5 @@ https://moodle.umass.edu
 https://www.gradescope.com
 https://www.piazza.com
 https://github.com/
+
+https://learn.zybooks.com/zybook/UMASSCOMPSCI326KlempererSpring2021
