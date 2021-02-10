@@ -1,3 +1,4 @@
 @echo off
 
-C:\ProgramData\Anaconda3\Scripts\activate.bat %USERPROFILE%\.conda\envs\%1
+if not [%1] == [] (set ENV="\envs\")
+C:\Users\garyw\anaconda3\Scripts\activate.bat %USERPROFILE%\anaconda3%ENV%%1
