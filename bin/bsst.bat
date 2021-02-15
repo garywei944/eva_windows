@@ -1,1 +1,1 @@
-@browser-sync start --server --files "%1"
+@browser-sync start --server --files "%1", !.git
