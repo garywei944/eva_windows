@@ -1,7 +1,4 @@
-https://mail.google.com/mail/u/?authuser=garywei944@gmail.com
-https://mail.google.com/mail/u/?authuser=guanghaowei@umass.edu
-https://moodle.umass.edu
+https://umass.moonami.com/
 https://www.gradescope.com
 https://www.piazza.com
 https://github.com/
-https://learn.zybooks.com/zybook/UMASSCOMPSCI326KlempererSpring2021
