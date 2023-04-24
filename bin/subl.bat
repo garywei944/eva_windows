@@ -1,1 +1,1 @@
-@start "" "C:\Program Files\Sublime Text 3\sublime_text.exe" %1
+@start "" "C:\Program Files\Sublime Text\sublime_text.exe" %1
